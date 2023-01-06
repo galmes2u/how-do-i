@@ -1,5 +1,8 @@
 # How Do I....
 
+Here you will find an ongoing collection of small Javascript snippets that may help you during assignments. The goal here is to help you solve common problems, but also I hope you will take time to examine these solutions to see how the code works.
+
+Understanding the code will give you a better grasp of Javascript and help you come up with solutions of your own!
 <br>
 
 ---
@@ -74,6 +77,7 @@ const keys = Object.keys(obj)
 <br>
 
 **Get a value from an object when the key is dynamic**
+<br>
 ex:  ```const obj = { name: "Bob", age: 25, location: "Home" }```
 
 ```
